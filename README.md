@@ -5,7 +5,7 @@ Scrape Hirist.tech IT job listings by keyword, category, location, and experienc
 **Run it on Apify:** [apify.com/themineworks/hirist-jobs-scraper](https://apify.com/themineworks/hirist-jobs-scraper)
 **Docs, FAQ and pricing:** [themineworks.com/actors/hirist-jobs-scraper](https://themineworks.com/actors/hirist-jobs-scraper/)
 
-**Price:** $5.00 per 1,000 jobs on Apify's free plan, down to $3.00 on higher plans, plus a $0.005 start fee per run. Failed and empty results are never charged.
+**Price:** From $3.00 per 1,000 jobs on Apify's higher plans ($5.00 on the free plan), plus a $0.005 start fee per run. Failed and empty results are never charged.
 
 ## What it returns
 
